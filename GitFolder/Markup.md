@@ -1,4 +1,4 @@
-<p style="text-align: center;>Welcome to my Markup page!</p>
+# Welcome to my Markup page!
 
 
 
