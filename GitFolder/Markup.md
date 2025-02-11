@@ -1,4 +1,4 @@
-Left aligned Header | Right aligned Header | Center aligned Header
+       | Center Title | -------------
 | :--- | ---: | :---:
 Content Cell  | Content Cell | Content Cell
 Content Cell  | Content Cell | Content Cell
