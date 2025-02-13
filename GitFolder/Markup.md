@@ -7,4 +7,4 @@
 
 ```diff
 + This took me a while!
-'''
+```
