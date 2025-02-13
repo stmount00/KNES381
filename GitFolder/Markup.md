@@ -6,4 +6,5 @@
  | dasdad |
 
 ```diff
-This took me a while!
++ This took me a while!
+'''
